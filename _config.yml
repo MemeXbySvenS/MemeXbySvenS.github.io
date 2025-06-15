@@ -20,7 +20,7 @@ title                    : "memexbysvens.io"
 title_separator          : "-"
 name                     : "MemeXbySvenS"
 description              : "Posts about security, CTFs and networking"
-url                      : "https://memexbysvens.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://memexbysvens.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MemeXbySvenS/MemeXbySvenS.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/MemeXbyS_500.png"
@@ -89,7 +89,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
 
 # Analytics
 analytics:
@@ -105,9 +105,10 @@ author:
   avatar           : "/assets/images/svensavatar.png"
   bio              : "A restless Bitcoiner's mind, devoured by knowledge"
   location         : "Cypherspace"
-  email            : "info@memexbysvens.io"
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  email            : "memex.mayday606@slmail.me"
+  uri              : "https://getalby.com/p/svens101"
+  home             : 
+
   bitbucket        :
   codepen          :
   dribbble         :
@@ -131,6 +132,9 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  seedhypermedia   : "https://seedhypermedia.com
+  did:z6MkpsvyE8GaPsSYmyFiPJCQTXe9tZezek2fg7xT8kXPsK2S"
+  amethys          : "https://amethys.social/npub19zqd5fjqejtp9zfk0yff9wz5w5j0szne7eygyfchp5qvzll87suqe50lyu"
 
 
 # Reading Files
